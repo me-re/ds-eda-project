@@ -130,3 +130,12 @@ dmypy.json
 
 #Apple
 *.DS_Store
+
+#Data
+/us_bank_wages
+
+#IPython Checkpoints
+.ipynb_checkpoints
+
+#VS Code
+.vscode
