@@ -133,3 +133,9 @@ dmypy.json
 
 #Data
 /us_bank_wages
+
+#IPython Checkpoints
+.ipynb_checkpoints
+
+#VS Code
+.vscode
